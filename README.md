@@ -15,7 +15,7 @@
 
 
 
-![Mi Nombre](./assets/yo.jpeg)
+![Mi Nombre](./assets/2.jpeg)
 <!--
 **SmartGli/SmartGli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
